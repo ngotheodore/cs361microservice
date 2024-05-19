@@ -10,3 +10,4 @@ How to use the program:
 5. The client program will receive the quote, decode it, and print the quote.
 
 Diagram:
+(Sequence_diagram.png)
