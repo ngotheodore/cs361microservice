@@ -23,4 +23,4 @@ while True:
     time.sleep(1)
 
     quote = random.choice(quote_list)
-    socket.send((quote))
+    socket.send(bytes(quote, encoding='utf-8'))
