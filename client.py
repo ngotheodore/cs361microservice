@@ -8,7 +8,7 @@ socket.connect("tcp://localhost:5557")
 
 for request in range(10):
     print(f"Sending request {request} …")
-    socket.send(b"Hello")
+    socket.send(b"Quote Request")
 
     message = socket.recv()
     print(f"Received reply {request} [ {message} ]")
