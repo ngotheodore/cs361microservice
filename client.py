@@ -11,4 +11,5 @@ for request in range(10):
     socket.send(b"Quote Request")
 
     message = socket.recv()
+    message = message.decode()
     print(f"Received reply {request} [ {message} ]")
