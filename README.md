@@ -10,4 +10,4 @@ How to use the program:
 5. The client program will receive the quote, decode it, and print the quote.
 
 Diagram:
-(Sequence_diagram.png)
+![Sequence_diagram](https://github.com/ngotheodore/cs361microservice/assets/83106444/bb2ee709-2eca-4537-b705-96baf7660e22)
