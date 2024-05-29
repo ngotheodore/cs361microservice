@@ -12,6 +12,7 @@ How to use the program:
 4. The server.py program will receive the request from the client.py program through a socket.
     Receive:
 5. After a delay in the server.py program, the program will select a random quote from the quote list and send it back to client.py through a socket.
+6. The quote will be received from the socket and decoded.
 
 Diagram:
 ![Sequence_diagram](https://github.com/ngotheodore/cs361microservice/assets/83106444/bb2ee709-2eca-4537-b705-96baf7660e22)
