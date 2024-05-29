@@ -16,4 +16,5 @@ How to use the program:
     socket.recv()
 
 Diagram:
-![Sequence_diagram](https://github.com/ngotheodore/cs361microservice/assets/83106444/bb2ee709-2eca-4537-b705-96baf7660e22)
+![Sequence diagram 2](https://github.com/ngotheodore/cs361microservice/assets/83106444/9adcee48-8be8-4554-bf1b-dd72c2bc5cd0)
+
